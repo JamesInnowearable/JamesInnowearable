@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesInnowearable
-- 👀 I’m interested in wearables 
-- 🌱 I’m currently learning signal analysis (basic) and applications to physical activity..
+- 👀 I’m interested in wearables, health technology, and data analytics
+- 🌱 I’m currently learning AI with Python and Data visualisation and DAX (in Power BI)
 - 💞️ I don't think i'm ready to collaborate ...
 - 📫 How to reach me on Twitter @jamesparker13...
 
